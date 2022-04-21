@@ -11,6 +11,7 @@ public class Calculator
 		{
 		int d=a+b+c;
 		return d;
+		
 	}
 	 int sub(int a,int b)
 	{
